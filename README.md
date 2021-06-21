@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mashtura
 - 👀 I’m interested in solutions
-- 🌱 I’m currently learning NLP, UX Design & Complex Graph Algorithms
+- 🌱 I’m currently learning NLP & Complex Graph Algorithms
 - 💞️ I’m looking for developer role
 - 📫 Reach me https://www.linkedin.com/in/mashtura-m/
 
